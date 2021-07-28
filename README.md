@@ -1,3 +1,3 @@
 # AutoShillKeys
 
-api_id will be stored here with encrypted usage duration
+api_id will be stored here with usage duration / encrypted expire time
