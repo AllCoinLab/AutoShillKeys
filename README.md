@@ -1,2 +1,3 @@
 # AutoShillKeys
-Keys for AutoShill
+
+api_id will be stored here with encrypted usage duration
